@@ -3,8 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=telxey&label=Profile%20views&color=0e75b6&style=flat" alt="telxey" /> </p
                                                                                                                                        
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=telxey&theme=dark" alt="telxey" height="175" width="450" /></p></a></p><br> <p>&nbsp;<img align=left" src="https://github-readme-stats.vercel.app/api?username=telxey&theme=dark&show_icons=true&locale=en" alt="telxey" height="175" width="450" /></p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40" />
+ 
 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=telxey&theme=dark" alt="telxey" height="175" width="450" /></p></a></p><br> <p>&nbsp;<img align=left" src="https://github-readme-stats.vercel.app/api?username=telxey&theme=dark&show_icons=true&locale=en" alt="telxey" height="175" width="450" /></p>
+
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
