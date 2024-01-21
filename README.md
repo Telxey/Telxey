@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=telxey&label=Profile%20views&color=0e75b6&style=flat" alt="telxey" /> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=telxey&theme=dark&show_icons=true&locale=en&layout=compact" alt="telxey" />
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=telxey&theme=dark" alt="telxey" height="150" width="385" />
 <p><a href="https://www.buymeacoffee.com/telxey"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="telxey" />
 
 <h3 align="left">Languages and Tools:</h3> <p><a href="https://www.buymeacoffee.com/telxey">
@@ -39,8 +39,8 @@
  
 
 <h3 align="left">Stasts:</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=telxey&theme=dark&show_icons=true&locale=en" alt="telxey" height="150" width="385" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=telxey&theme=dark" alt="telxey" height="150" width="385" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=telxey&theme=dark&show_icons=true&locale=en" alt="telxey" height="170" width="385" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=telxey&theme=dark&show_icons=true&locale=en&layout=compact" alt="telxey" />
 
 
 
