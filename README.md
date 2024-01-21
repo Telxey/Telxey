@@ -39,8 +39,8 @@
  
 
 <h3 align="left">Stasts:</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=telxey&theme=dark&show_icons=true&locale=en" alt="telxey" height="175" width="450" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=telxey&theme=dark" alt="telxey" height="175" width="450" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=telxey&theme=dark&show_icons=true&locale=en" alt="telxey" height="150" width="385" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=telxey&theme=dark" alt="telxey" height="150" width="385" />
 
 
 
