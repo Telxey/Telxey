@@ -43,7 +43,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=telxey&theme=dark&show_icons=true&locale=en&layout=compact" alt="telxey" />
 
 
-<p><a href="https://www.buymeacoffee.com/telxey"> <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVlOWY1c2pxZHF6MTlub3h1Ym0zM2x0dXMwcm52b3dxN2hsM3h5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" height="200" width="200" alt="telxey" />
+<p><a href="https://www.buymeacoffee.com/telxey"> <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVlOWY1c2pxZHF6MTlub3h1Ym0zM2x0dXMwcm52b3dxN2hsM3h5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" height="150" width="150" alt="telxey" />
 
 
 
